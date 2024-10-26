@@ -20,7 +20,6 @@
 .number-question {
   position: absolute;
   padding: 10px;
-  width: 40px;
   left: 45px;
   top: 0;
   border-radius: 10px;
@@ -84,7 +83,6 @@ span{
 
 @media (max-width: 768px) {
   .number-question {
-    width: 35px;
     border-radius: 5px;
     margin-top: 30px;
     font-size: 15px;
@@ -95,9 +93,11 @@ span{
     height: 100%;
   }
 
-  h1 {
-    margin: 20px 0;
-    font-size: 15px; /* Smaller font size for mobile */
+  .box-container h1 {
+    margin: 30px 0 0;
+    font-size: 20px; /* Smaller font size for mobile */
+    text-transform: uppercase;
+
   }
 
   .next-question {

@@ -29,7 +29,7 @@ function App() {
     <>
       <div className='container'>
         <div className='box-container'>
-          <h2 className='number-question'>{currentQuestion.id}</h2>
+          <h2 className='number-question'> Question Interview No. {currentQuestion.id}</h2>
           <h1>{currentQuestion.question}</h1>
           <div className='answer-container'>
             <div className='answer-box'>
