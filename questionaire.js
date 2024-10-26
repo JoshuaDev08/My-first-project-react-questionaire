@@ -48,7 +48,7 @@ let questionaire = [
   {
     id: 10,
     question: "Strengths?",
-    answer: "My stregths is that I am well-organized, adaptable and optimistic to change, quick learner and excels at time management which allows me to handle tasks."
+    answer: "As a Computer Engineering graduate, I bring a strong combination of software and hardware skills. My background equips me to solve complex technical issues, streamline systems, and contribute to innovation. I’m proficient in programming and database management, which helps me develop and maintain applications efficiently. Overall, I’m prepared to bring both technical expertise and process efficiency to help the company grow."
   },
   {
     id : 11,
