@@ -23,7 +23,7 @@ let questionaire = [
   {
     id: 5,
     question: "Why did you chose Computer Engineering?",
-    answer: "The most valuable lesson from my internship was learning how effective organization and efficient workflows directly support productivity. Managing tools, layouts, and documentation sharpened my problem-solving skills and taught me to prioritize tasks effectively—skills I’m eager to bring to any team. It was also incredibly rewarding to see others recognize the results of my efforts, which made me feel valued and motivated to keep improving."
+    answer: "I chose to pursue computer engineering because I have loved technology since I was young. Growing up, I was fascinated by how gadgets and software worked, and I enjoyed exploring new advancements in technology. This passion drove me to seek a career where I could not only deepen my understanding of these technologies but also leverage them to create innovative solutions. I believe computer engineering offers me the perfect blend of creativity and technical challenge, allowing me to contribute to projects that can make a meaningful impact on people's lives."
   },
   {
     id: 6,
